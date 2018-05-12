@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '8687'
     url: http://www.gutenberg.org/2009/agents/8687
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19454#La-mort-de-Brute-et-de-PorcieOu-La-vengeance-de-la-mort-de-C-sar---Trag-die
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2006-10-03'
 gutenberg_type: Text
