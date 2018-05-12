@@ -1,0 +1,32 @@
+_repo: La-mort-de-Brute-et-de-PorcieOu-La-vengeance-de-la-mort-de-C-sar---Trag-die_19454
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guérin de Bouscal
+    aliases:
+    - Bouscal, Guérin de
+    - Bouscal, Guyon Guerin de
+    - Guérin de Bouscal, Guyon
+    deathdate: 1657
+    gutenberg_agent_id: '8687'
+    url: http://www.gutenberg.org/2009/agents/8687
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2006-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19454'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Drama'
+title: 'La mort de Brute et de Porcie
+
+  Ou, La vengeance de la mort de César - Tragédie'
+url: http://www.gutenberg.org/ebooks/19454
